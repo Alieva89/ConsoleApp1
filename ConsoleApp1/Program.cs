@@ -43,7 +43,7 @@ namespace ConsoleApp1
                 else
                 {
                     result[i] = notEvenList[counter2];
-                    counter2++;
+                    counter2 += 2;
                 }
             }
 
